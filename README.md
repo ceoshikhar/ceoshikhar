@@ -9,3 +9,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ceoshikhar&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+*NOTE: `Most Used languages` does not indicate my skill level or something like that, it's a github metric of which languages I have the most code published on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
